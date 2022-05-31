@@ -8,6 +8,7 @@
 function Action()
 {
 	//05/31/2022 10:52am
+	//05/31/2022 10:59am
 	web.setSocketsOption('SSL_VERSION', 'AUTO');
 
 	web.addAutoHeader('Sec-Fetch-Site', 
