@@ -13,7 +13,7 @@ function Action()
 	//05/31/2022 11:16am
 	//05/31/2022 12:27pm
 	//05/31/2022 12:31pm
-	//05/31/2022 12:33pm
+	//05/31/2022 12:33pm///
 	web.setSocketsOption('SSL_VERSION', 'AUTO');
 
 	web.addAutoHeader('Sec-Fetch-Site', 
