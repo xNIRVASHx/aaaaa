@@ -52,13 +52,13 @@ vuser_init=JsExt-Interpreter
 Action=JsExt-Interpreter
 vuser_end=JsExt-Interpreter
 [TransactionsOrder]
-Order="Speaker__*delimiter*__Bose__*delimiter*__Launch"
+Order="Launch__*delimiter*__Speaker__*delimiter*__Bose"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
 LastReplayedRunName=result1
 ActiveRunName=result1
 [Transactions]
+Launch=
 Speaker=
 Bose=
-Launch=
